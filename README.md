@@ -38,6 +38,7 @@ ATTENTION! Firmware has been made with AI!
 M2 screws / Required: Yes / Cost: 8$ / Link: https://de.aliexpress.com/item/1005007159750547.html?spm=a2g0o.productlist.main.1.5eb3167aoNl5ZI&algo_pvid=4df4c264-cbff-4d37-a114-0ee31f974b47&algo_exp_id=4df4c264-cbff-4d37-a114-0ee31f974b47-0&pdp_ext_f=%7B%22order%22%3A%222160%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%215.80%210.87%21%21%216.58%210.99%21%402103834817531197157033412e73d3%2112000039655872513%21sea%21AT%216396215576%21ABX&curPageLogUid=Youa65Y32Dvi&utparam-url=scene%3Asearch%7Cquery_from%3A
 
 PCB cost: 30$ (with 20$ coupon from hackclub) / Required: YES
+
 Total cost of BOM: 52$ (some items are currently discounted for me so could change)
 
 
