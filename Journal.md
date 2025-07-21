@@ -12,5 +12,13 @@ Time it took to do this: 4 hours
 
 # Second part of this project:
 I pretty much made the whole case (I think it looks pretty ok based on my fusion 360 skills). The only real problem this taking so long. Because after my first try I made a big mistake, except making an outer rectangle that is 8mm longer on each side, that would serve as the shell, I just made the original one 8mm shorter!? Yea I couldnt believe it myself. Apart from that it was ok until I got to the top case, as placing the buttons and making the holes was pretty hard because I couldnt use a preset from keybpuard editor, as my board was a square and I needed excact as much space between the walls and the switches. After I got that done my extrusion tool was kinda wacky and even though I would extrude to the bottom it wouldnt cut the case, and when I went to the top it would just build something and not cut the case, so making the holes for the screws was pretty hard. Then I just put everything together and it was done.
+
+<img width="666" height="602" alt="image" src="https://github.com/user-attachments/assets/4fdcc81c-ab61-4c54-99af-62280e4bcf5d" />
+
+I made the slit above the rp2040 for the leds neopixel strip to go trough
+
+<img width="847" height="551" alt="image" src="https://github.com/user-attachments/assets/d0c217d1-3739-4792-a745-94ebef0e7adf" />
+
+And ofcourse a hole for the usb cable
 Time it took to do this: 8 hours
 
