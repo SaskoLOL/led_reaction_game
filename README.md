@@ -37,6 +37,8 @@ ATTENTION! Firmware has been made with AI!
 
 M2 screws / Required: Yes / Cost: 8$ / Link: https://de.aliexpress.com/item/1005007159750547.html?spm=a2g0o.productlist.main.1.5eb3167aoNl5ZI&algo_pvid=4df4c264-cbff-4d37-a114-0ee31f974b47&algo_exp_id=4df4c264-cbff-4d37-a114-0ee31f974b47-0&pdp_ext_f=%7B%22order%22%3A%222160%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%215.80%210.87%21%21%216.58%210.99%21%402103834817531197157033412e73d3%2112000039655872513%21sea%21AT%216396215576%21ABX&curPageLogUid=Youa65Y32Dvi&utparam-url=scene%3Asearch%7Cquery_from%3A
 
+Neopixel leds / Required: YES / COST: 4$ / Link: https://de.aliexpress.com/item/1005007982624217.html?spm=a2g0o.productlist.main.4.2ae23767rbIS0y&algo_pvid=d275a318-507f-4324-94a4-05384be748f8&algo_exp_id=d275a318-507f-4324-94a4-05384be748f8-3&pdp_ext_f=%7B%22order%22%3A%223191%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%211.63%210.87%21%21%2113.26%217.07%21%402103919917531205886286177e34f8%2112000043170571838%21sea%21AT%216396215576%21ABX&curPageLogUid=E7d53sA4rKzR&utparam-url=scene%3Asearch%7Cquery_from%3A&_gl=1*3spku5*_gcl_aw*R0NMLjE3NTMxMjA1ODIuQ2owS0NRand5dmZEQmhEWUFSSXNBSXR6YlpHM1daS3ZNR3RVQkNiR0ZzbnNJTWVnWV9TaldQaTRsS3RDSE1zRE1XQVFDOXk4SjhleHp5NGFBbFpjRUFMd193Y0I.*_gcl_dc*R0NMLjE3NTMxMTk2MzYuQ2owS0NRand5dmZEQmhEWUFSSXNBSXR6YlpHbDh6eHhIYy13ZEdIMUd3R1E3SkZqYVItTXotbGd1Q2lJU2lIWXptcFRyR2FwR0ZwM0N0b2FBZ0tURUFMd193Y0I.*_gcl_au*Njc0NTUzMDIxLjE3NTExMDk5ODA.*_ga*MTk3MjI5MDc1Ny4xNzQyMDY0MDI4*_ga_VED1YSGNC7*czE3NTMxMTkzNDckbzIwJGcxJHQxNzUzMTIwNTgxJGo2MCRsMCRoMA..
+
 PCB cost: 30$ (with 20$ coupon from hackclub) / Required: YES
 
 Total cost of BOM: 52$ (some items are currently discounted for me so could change)
