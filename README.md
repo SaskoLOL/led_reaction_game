@@ -41,6 +41,8 @@ Neopixel leds / Required: YES / COST: 4$ / Link: https://de.aliexpress.com/item/
 
 PCB cost: 30$ (with 20$ coupon from hackclub) / Required: YES
 
-Total cost of BOM: 52$ (some items are currently discounted for me so could change)
+Seed xiao rp2040 / Required: YES / Cost: 6$ / Link: https://de.aliexpress.com/item/1005004459618789.html?spm=a2g0o.productlist.main.1.61347ed9qFSyZx&algo_pvid=56c00641-76bb-4c3e-88e9-02df55c27702&algo_exp_id=56c00641-76bb-4c3e-88e9-02df55c27702-0&pdp_ext_f=%7B%22order%22%3A%22372%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%216.18%214.64%21%21%217.01%215.26%21%402103846917531211712227444ebe9d%2112000039319962127%21sea%21AT%216396215576%21ABX&curPageLogUid=M7Tuem049I0r&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+Total cost of BOM: 60$ (some items are currently discounted for me so could change)
 
 
